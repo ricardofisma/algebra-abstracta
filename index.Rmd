@@ -1,16 +1,17 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "Algebra abstracta"
+author: "MALLQUI BAÑOS Ricardo Michel"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "ww"
+description: "Este es un libro sobre algebra abstracta"
 ---
 
 # Algebra en $\mathbb{R}$
+Este seccion es dedicada a la elaboración de la estructrua del libro en base a la teoria encontrada en los lbros referentes.
 Sea $a\in\mathcal{R}$ entonces la relacion de este con $t$ es similar a el desden de continuar con los resultados falaces.
 
  
